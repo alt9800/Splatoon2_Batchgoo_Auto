@@ -31,3 +31,7 @@ Arduino Leonardo互換のPro Micro (ATmega32U4)にArduino IDEを用いて入力�
 - - 実行短縮版のコードを生成する
 - サブモジュールとして[利用したライブラリのリポジトリ](https://github.com/lefmarna/NintendoSwitchControlLibrary)を含めるといいかも
 
+
+## 参考動画
+https://twitter.com/ebiflyyyyyyyy/status/1366359112217321474?ref_src=twsrc%5Etfw
+
